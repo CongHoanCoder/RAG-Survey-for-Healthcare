@@ -23,8 +23,13 @@ This is README.md file
 - Chunking Optimization
 
 [Clinical entity augmented retrieval for clinical information extraction](https://pmc.ncbi.nlm.nih.gov/articles/PMC11743751/?utm_source=chatgpt.com)
+
 [BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine](https://arxiv.org/pdf/2405.00465)
+
 [ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems](https://arxiv.org/pdf/2410.19572)
+
 [Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation](https://aclanthology.org/2025.coling-main.384.pdf)
+
 [Enhancing Large Language Model Reliability: Minimizing Hallucinations with Dual Retrieval-Augmented Generation Based on the Latest Diabetes Guidelines](https://www.mdpi.com/2075-4426/14/12/1131?utm_source=chatgpt.com)
+
 [Clinical Entity Augmented Retrieval for Clinical Information Extraction](https://pmc.ncbi.nlm.nih.gov/articles/PMC11743751/pdf/41746_2024_Article_1377.pdf)
