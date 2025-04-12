@@ -3,6 +3,7 @@
 This is README.md file
 ## Background
 
+![LLM Models](/LLM_Models.png "LLM_Models")
 
 ## Module RAG
 
