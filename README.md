@@ -5,6 +5,77 @@ This is README.md file
 
 ![LLM Models](/LLM_Models.png "LLM_Models")
 
+- List LLM Models for Healthcare
+
+[Biobert: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/pdf/1901.08746)
+
+[SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/pdf/1903.10676)
+
+[Publicly Available Clinical BERT Embeddings](https://arxiv.org/pdf/1904.03323)
+
+[ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/pdf/1904.05342)
+
+[Pharmbert: a domain-specific bert model for drug labels.](https://academic.oup.com/bib/article/24/4/bbad226/7197744)
+
+[BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/pdf/2010.06060)
+
+[ClinicalT5: A Generative Language Model for Clinical Text](https://aclanthology.org/2022.findings-emnlp.398.pdf)
+
+[Biogpt: generative pre-trained transformer for biomedical text generation and mining]()
+
+[Toward expert-level medical question answering with large language models](https://arxiv.org/pdf/2305.09617)
+
+[Medalpaca–an open-source collection of medical conversational ai models and training data](https://arxiv.org/pdf/2304.08247)
+
+[PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://arxiv.org/pdf/2304.14454)
+
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971)
+
+[Meditron-70b: Scaling medical pretraining for large language models.](https://arxiv.org/pdf/2311.16079)
+
+[A large chest radiograph dataset with uncertainty labels and expert comparison.](https://arxiv.org/pdf/1901.07031)
+
+[MedCLIP: Contrastive Learning from Unpaired Medical Images and Text](https://arxiv.org/pdf/2210.10163)
+
+[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/pdf/2306.07971)
+
+[Highly accurate protein structure prediction with alphafold.](https://www.nature.com/articles/s41586-021-03819-2)
+
+[DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome ](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+
+[Multi-modal Self-supervised Pre-training for Regulatory Genome Across Cell Types](https://arxiv.org/pdf/2110.05231)
+
+[ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing](https://arxiv.org/pdf/2007.06225)
+
+[PharmaGPT: Domain-Specific Large Language Models for Bio-Pharmaceutical and Chemistry](https://arxiv.org/pdf/2406.18045)
+
+[“That’s so cute!”: The CARE Dataset for Affective Response Detection](https://aclanthology.org/2022.conll-1.5.pdf)
+
+[ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data](https://arxiv.org/pdf/2411.15004)
+
+[Can GPT-3.5 Generate and Code Discharge Summaries?](https://arxiv.org/pdf/2401.13512)
+
+[Using ChatGPT-4 to Create Structured Medical Notes From Audio Recordings of Physician-Patient Encounters: Comparative Study](https://www.jmir.org/2024/1/e54419/PDF)
+
+[Bert fine-tuned cord-19 ner dataset](https://ieee-dataport.org/documents/bert-fine-tuned-cord-19-ner-dataset)
+
+[LitGPT](https://github.com/Lightning-AI/litgpt)
+
+[PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text](https://medium.com/@haoliu/pubmed-gpt-a-domain-specific-large-language-model-for-biomedical-text-b3bbd6fc32cb)
+
+[VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework](https://arxiv.org/pdf/2403.09027)
+
+[Large Language Models Encode Clinical Knowledge](https://arxiv.org/pdf/2212.13138)
+
+[Survey of Hallucination in Natural Language Generation](https://arxiv.org/pdf/2202.03629)
+
+[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683)
+
+[Using AI-generated suggestions from ChatGPT to optimize clinical decision support](https://academic.oup.com/jamia/article/30/7/1237/7136722)
+
+[Retrieval-augmented generation for large language models: A survey.](https://arxiv.org/pdf/2312.10997)
+
+
 ## Module RAG
 
 [Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/pdf/2310.01352)
