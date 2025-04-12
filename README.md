@@ -79,6 +79,38 @@ This is README.md file
 
 ![RAG Taxonomy](/RAG_Taxonomy.png "RAG_Taxonomy")
 
+
+
+## Naive RAG
+
+[Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation](https://www.medrxiv.org/content/medrxiv/early/2023/11/11/2023.11.10.23298364.full.pdf)
+
+[ChatENT: Augmented Large Language Model for Expert Knowledge Retrieval in Otolaryngology - Head and Neck Surgery](https://www.medrxiv.org/content/10.1101/2023.08.18.23294283v2)
+
+[Large Language Models with Retrieval-Augmented Generation for Zero-Shot Disease Phenotyping, 2023](https://arxiv.org/pdf/2312.06457)
+
+[Almanac: Retrieval-Augmented Language Models for Clinical Medicine](https://arxiv.org/pdf/2303.01229)
+
+[Retrieval Augmentation of Large Language Models for Lay Language Generation](https://arxiv.org/pdf/2211.03818)
+
+
+
+## Advanced RAG
+
+[A RAG Chatbot for Precision Medicine of Multiple Myeloma.](https://www.medrxiv.org/content/10.1101/2024.03.14.24304293v1.full.pdf)
+
+[A Context-based Chatbot Surpasses Radiologists and Generic ChatGPT in Following the ACR Appropriateness Guidelines.](https://pubs.rsna.org/doi/epdf/10.1148/radiol.230970)"
+
+[Performance of ChatGPT, human radiologists, and context-aware ChatGPT in identifying AO codes from radiology reports.](https://www.nature.com/articles/s41598-023-41512-8#Sec1)
+
+[The Power of Noise: Redefining Retrieval for RAG Systems](https://dl.acm.org/doi/pdf/10.1145/3626772.3657834)
+
+[Integrating UMLS Knowledge into Large Language Models for Medical Question Answering](https://arxiv.org/pdf/2310.02778)
+
+[Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering](https://arxiv.org/pdf/2309.02233)
+
+
+
 ## Module RAG
 
 [Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/pdf/2310.01352)
