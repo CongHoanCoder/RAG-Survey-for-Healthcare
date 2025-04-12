@@ -75,6 +75,9 @@ This is README.md file
 
 [Retrieval-augmented generation for large language models: A survey.](https://arxiv.org/pdf/2312.10997)
 
+## Taxonomy of RAG
+
+![RAG Taxonomy](/RAG_Taxonomy.png "RAG_Taxonomy")
 
 ## Module RAG
 
