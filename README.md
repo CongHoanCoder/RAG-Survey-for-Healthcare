@@ -3,7 +3,11 @@
 This is README.md file
 ## Background
 
-![LLM Models](/02_LLM_Models.png "LLM_Models")
+<!-- ![LLM Models](/02_LLM_Models.png "LLM_Models") -->
+
+<div align="center">
+  <img src="/02_LLM_Models.png" alt="LLM_Models" width="60%"/>
+</div>
 
 - List LLM Models for Healthcare
 
@@ -83,7 +87,11 @@ This is README.md file
 
 ## Naive RAG
 
-![Naive_RAG](/06_Naive_RAG_Architecture.png "Naive_RAG")
+<!-- ![Naive_RAG](/06_Naive_RAG_Architecture.png "Naive_RAG") -->
+
+<div align="center">
+  <img src="/06_Naive_RAG_Architecture.png" alt="Naive_RAG" width="60%"/>
+</div>
 
 [Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation](https://www.medrxiv.org/content/medrxiv/early/2023/11/11/2023.11.10.23298364.full.pdf)
 
@@ -99,7 +107,11 @@ This is README.md file
 
 ## Advanced RAG
 
-![Advanced_RAG](/07_Advanced_RAG_Architecture.png "Advanced_RAG")
+<!-- ![Advanced_RAG](/07_Advanced_RAG_Architecture.png "Advanced_RAG") -->
+
+<div align="center">
+  <img src="/07_Advanced_RAG_Architecture.png" alt="Advanced_RAG" width="60%"/>
+</div>
 
 [A RAG Chatbot for Precision Medicine of Multiple Myeloma.](https://www.medrxiv.org/content/10.1101/2024.03.14.24304293v1.full.pdf)
 
@@ -117,7 +129,11 @@ This is README.md file
 
 ## Module RAG
 
-![Modular_RAG](/08_Modular_RAG.png "Modular_RAG")
+<!-- ![Modular_RAG](/08_Modular_RAG.png "Modular_RAG") -->
+
+<div align="center">
+  <img src="/08_Modular_RAG.png" alt="Modular_RAG" width="60%"/>
+</div>
 
 [Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/pdf/2310.01352)
 
@@ -187,7 +203,11 @@ This is README.md file
 
 ## Graph RAG
 
-![Graph_RAG](/09_Graph_RAG.png "Graph_RAG")
+<!-- ![Graph_RAG](/09_Graph_RAG.png "Graph_RAG") -->
+
+<div align="center">
+  <img src="/09_Graph_RAG.png" alt="Graph_RAG" width="60%"/>
+</div>
 
 [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/pdf/2501.13958)
 
@@ -201,7 +221,11 @@ This is README.md file
 
 ## Agentic RAG
 
-![Agentic_RAG](/10_Agentic_RAG.png "Agentic_RAG")
+<!-- ![Agentic_RAG](/10_Agentic_RAG.png "Agentic_RAG") -->
+
+<div align="center">
+  <img src="/10_Agentic_RAG.png" alt="Agentic_RAG" width="60%"/>
+</div>
 
 [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/pdf/2409.18924)
 
@@ -217,7 +241,11 @@ This is README.md file
 
 # Applications & Use Cases
 
-![Applications_Outline](/11_Applications_and_Usecases.png "Applications_Outline")
+<!-- ![Applications_Outline](/11_Applications_and_Usecases.png "Applications_Outline") -->
+
+<div align="center">
+  <img src="/11_Applications_and_Usecases.png" alt="Applications_Outline" width="60%"/>
+</div>
 
 ## Medical Training & Education
 
@@ -252,7 +280,11 @@ This is README.md file
 
 ## Medical Literature Summarization
 
-![RefAI](/13_RefAI_Architecture.png "RefAI")
+<!-- ![RefAI](/13_RefAI_Architecture.png "RefAI") -->
+
+<div align="center">
+  <img src="/13_RefAI_Architecture.png" alt="RefAI" width="60%"/>
+</div>
 
 [RefAI: a GPT-powered retrieval-augmented generative tool for biomedical literature recommendation and summarization.](https://www.worldscientific.com/doi/epdf/10.1142/9789819807024_0015)
 
@@ -262,7 +294,10 @@ This is README.md file
 
 ## Electronic Health Record Analysis
 
-![MedRAG](/14_Knowledge_Graph.png "MedRAG")
+<!-- ![MedRAG](/14_Knowledge_Graph.png "MedRAG") -->
+<div align="center">
+  <img src="/14_Knowledge_Graph.png" alt="MedRAG" width="60%"/>
+</div>
 
 [MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://arxiv.org/abs/2502.04413)
 
