@@ -181,39 +181,60 @@ This is README.md file
 
 ## Graph RAG
 [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/pdf/2501.13958)
+
 [Medical graph rag: Towards safe medical large language model via graph retrieval-augmented generation. ](https://arxiv.org/pdf/2408.04187)
+
 [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](https://arxiv.org/pdf/2410.04585)
+
 [Biomedical knowledge graph-optimized prompt generation for large language models](https://watermark.silverchair.com/btae560.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA4YwggOCBgkqhkiG9w0BBwagggNzMIIDbwIBADCCA2gGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz0NrXzOwUS3wI4AmAgEQgIIDOVoIIve4Fm4epbFnBWgMWKSE7Vq9uQkANL-R3K1hkz3Z987Ii_lSfDmMPvmS_1HI9MnQ6osjGb52rwuB841pRkuFeuyexjS2AcMp9yPLvBnjqJAX8s2LYDFWC84avV-_3M4_1H1399CnUHTo3zQP7lR_eX3LtFnV5z8ekUHLCbAJXPKMmZ1lhW80qds7X45bhI47kHDzZjJdg1mp7rqpnsoDNJmryRujeQU4TZQSFbmgnzpVXqFiotciOrgD90eKGdPxeK8PBGLNrYDmPaHFINzGLgeXhRvh9Pi6Facd-oBcyJ59xpe_wghe8NvRSLGutGXJyLFyoweN6C7BBjlylVn1yiVy7_q7vLy9a7RzaeMc-SH50Pb8zosbcsZL68J_vM53-9LgaVvqGIp6huiqmFTluaS5QVqMRV9zC3ry84gbi2dTLHjFz0CS5hbmh7ys87XdY-TBg1sJCbQuBvFUFCGvEasnQUaqAQ2VmtUoXQ9Dp9VjS-CgZKYS68g-iqRyxKQAWyPrIML0hV6BW1pZvzD3XBhFM0FJHSt6r8HCKPNCdapSn3ujEQbKd4TLhE5icJBu4HTsfdqCGc0szzAm1rtnvH6KaYWUQY_dNlF-ne9VC9pfIVYnioMj-yvygIWs7n2J38gUcxisPgGAkibYAmxwm0194tZ-e7is6b_bbfdEe4pEJCeDjQcLeCLJm6JWuCo0dSbpDwex8wZAeQMZEUcZ-Fxbcvl1bfPaXy08_TdVQS63zQZV6FB38K3rNMmwh5DUx91jlld0esgzHAQV8lzb8kMEclWi9hBFQ3SQIliy32PIHCcJcBJIx7_Ww7VeU64y7OgkI_FnY3M6UaYmndoz9sS84XtOIdY0SK4uzGO2Gho78bOqTALe3wNAlRbfj9QPGtTGj_vASywfDoRaCsd6zc2QiHW7p6iqNbfpEhAqMDtGyLTm44BZQ1_cDdRJd63cc0mgRCeTMhSmt8Fx-SmDzGDbPap4uMOB_HYXb0A2kSioBL1X0Xb-B4xjKXy087AaGkE7-U95YaQcTJRkw1nFsgMh6bn8DDEn8OAPKLavJJ7TpBBpoU3A1kh2cAnZQcGLSuER4Uglng)
+
 [Hykge: A hypothesis knowledge graph enhanced framework for accurate and reliable medical llms responses.](https://watermark.silverchair.com/btae560.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA4YwggOCBgkqhkiG9w0BBwagggNzMIIDbwIBADCCA2gGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7V6qYfvT9i3ZkdC2AgEQgIIDOcO2u2KbJus1SzIF8LTPp4LdNokZzmtw5AwnZrXjZVbv_cEKBCi3DpiYFo_UdVKQSi6-is6WBJgOdnT77X2t0AqZ6PDHi9R038upcAzyCjcyHNE1uleB8phMpkR2qFJV9CrBv403Lge2yjLBjG1F5sKkyGtDWATN5iRUThYOzDqMn5DJ0TVfE0zUo3S-eC0bNSE6AP3np-P9pr8Fpy1VluNz0ZRd2jxRiDovfmpZihY9DB-QNAA0BKC-P6KGoebR6M3esHGBl9BaFZZgONn3_ErPCqhb9pv1MTj7hVZV5mavpzh3aYoRyXyM3qlsAbF24FgUzyaiz25YF7AwbaY1jHFFnX9dAfkUcvu3oleRjZP1EO7c33rTDZSUS1LnCV8soX_wZrw5f2CEdeV-IHpSlzn0IOQPwvXi2E3IhvheTCmEoVyUXqJjyLmRg7HP_q21cuTnakI67yZTPBUsSVN3vw4kPe0j7SGaPoIDrEnqSY9UqYz5PBtAWGIU_7aed7_b3-LhKPjQP2UiV1c8PKY93Kq4BSQyhTedaZV61u0ZnzO9MVrrYlxTmXlRa20FmKC7svP_9eKjdtXSuIo5eAZ2YBQenafyq4c5mZXh9SQBZIwkw5-VY_EKwRtykFKpcGKCP6kGMCaBUl-uVE6UPjQ34Ig0A3GFthUmyDJtKVeO5DBwN9mrjN6a4BU3bU3iWmweWvKTYZzgIk7KKsGHg3DecXnuc3k6CJJnNWYBnI3uHYWT9JN4PAPUDJhRpM2FHzRXz6_Vd3meQmT6DN2cjKKGm7_3lBkd4OZcjJe5rZuY4l5k2TV1TAUFIZ0g76EdbVZiOxjpUlOeAB5dtr9875SgHHM_m4FisxkQKqyouDbc4aIGFB1IBpdMreLEcOYZGXRZ2ihR89A4bg8-j12oSHjmdWxlLfdxQT1zG5yYx8Wu9SyXeI1-Espe-AdvoId-H-rB3B5NymS-OiRL44f-kGIrhyCDJKifgYD4hdyZ-t7Lu2a1OH1rOqOycvbEQBg04kydK9Sly7Ary29x0lNYDJ0pz8wCaR-wojK-O2Pd6IB2V74KgmYodQF0FmU4cr61M6RgqQQYwBGYXaAbpA)
 
 ## Agentic RAG
 [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/pdf/2409.18924)
+
 [Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines](https://arxiv.org/pdf/2502.15698)
+
 [Medagent-pro: Towards multi-modal evidence-based medical diagnosis via reasoning agentic workflow.](https://arxiv.org/pdf/2503.18968)
+
 [Towards interpretable radiology report generation via concept bottlenecks using a multi-agentic RAG. ](https://arxiv.org/pdf/2412.16086)
+
 [Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines. ](https://arxiv.org/pdf/2502.15698)
+
 [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow. ](https://arxiv.org/pdf/2409.18924)
 
 # Applications & Use Cases
 ## Medical Training & Education
 [Mimic-extract: A data extraction, preprocessing, and representation pipeline for mimic-iii. ](https://dl.acm.org/doi/pdf/10.1145/3368555.3384469)
+
 [Transforming healthcare education: Harnessing large language models for frontline health worker capacity building using retrieval-augmented generation ](https://www.medrxiv.org/content/10.1101/2023.12.15.23300009v1.full.pdf)
+
 [Rationale-Guided Retrieval Augmented Generation for Medical Question Answering. ](https://arxiv.org/pdf/2411.00300)
+
 [Benchmarking retrieval-augmented generation for medicine. ](https://aclanthology.org/2024.findings-acl.372.pdf)
+
 
 ## Clinical Decision Support
 [Almanac—retrieval-augmented language models for clinical medicine. ](https://ai.nejm.org/doi/abs/10.1056/AIoa2300068)
+
 [Development and testing of a novel large language model-based clinical decision support systems for medication safety in 12 clinical specialties. ](https://arxiv.org/pdf/2402.01741)
+
 [Automatic chain of thought prompting in large language models. ](https://www.chatgpthero.io/wp-content/uploads/2023/12/2210.03493.pdf)
+
 [Clinical entity augmented retrieval for clinical information extraction. ](https://www.nature.com/articles/s41746-024-01377-1)
+
 [Improving retrieval-augmented generation in medicine with iterative follow-up questions.  ](https://www.worldscientific.com/doi/epdf/10.1142/9789819807024_0015)
 
 ## Medical Literature Summarization
 [RefAI: a GPT-powered retrieval-augmented generative tool for biomedical literature recommendation and summarization.](https://www.worldscientific.com/doi/epdf/10.1142/9789819807024_0015)
+
 [Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature](https://www.worldscientific.com/doi/epdf/10.1142/9789811286421_0002)
+
 [Ccs explorer: Relevance prediction, extractive summarization, and named entity recognition from clinical cohort studies.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020807)
 
 ## Electronic Health Record Analysis
 [MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://arxiv.org/abs/2502.04413)
+
 [Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA. ](https://arxiv.org/pdf/2503.17933)
+
 [Large language models with retrieval-augmented generation for zero-shot disease phenotyping. ](https://arxiv.org/pdf/2312.06457)
