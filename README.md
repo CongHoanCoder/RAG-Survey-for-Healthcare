@@ -136,7 +136,7 @@ This is README.md file
 - An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature [[paper](https://arxiv.org/pdf/2310.16146)]
 - Zero-Shot ECG Diagnosis with Large Language Models and Retrieval-Augmented Generation [[paper](https://proceedings.mlr.press/v225/yu23b/yu23b.pdf)]
 
-- Chunking Optimization
+ **Chunking Optimization**
 
 - Clinical entity augmented retrieval for clinical information extraction [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11743751/?utm_source=chatgpt.com)]
 - BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine [[paper](https://arxiv.org/pdf/2405.00465)]
@@ -145,26 +145,26 @@ This is README.md file
 - Enhancing Large Language Model Reliability: Minimizing Hallucinations with Dual Retrieval-Augmented Generation Based on the Latest Diabetes Guidelines [[paper](https://www.mdpi.com/2075-4426/14/12/1131?utm_source=chatgpt.com)]
 - Clinical Entity Augmented Retrieval for Clinical Information Extraction [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11743751/pdf/41746_2024_Article_1377.pdf)]
 
-- Structure organization
+**Structure organization**
 
 - Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2408.04187)]
 - MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot [[paper](https://arxiv.org/abs/2502.04413)]
 - KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models [[paper](https://arxiv.org/pdf/2412.05547)]
 - Rationale-Guided Retrieval Augmented Generation for Medical Question Answering [[paper](https://web3.arxiv.org/pdf/2411.00300)]
 
-- Query Routing
+ **Query Routing**
 
 - The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2407.18044)]
 - Unsupervised Query Routing for Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2501.07793)]
 - Rationale-Guided Retrieval Augmented Generation for Medical Question Answering [[paper](https://arxiv.org/abs/2411.00300)]
 
-- Query Expansion
+ **Query Expansion**
 
 - BioRAGent: A Retrieval-Augmented Generation System for Showcasing Generative Query Expansion and Domain-Specific Search for Scientific Q&A [[paper](https://arxiv.org/pdf/2412.12358)]
 - Enhancing Retrieval-Augmented Generation: A Study of Best Practices [[paper](https://arxiv.org/pdf/2501.07391)]
 - Blended RAG: Improving RAG Accuracy with Semantic Search and Hybrid Query-Based Retrievers [[paper](https://arxiv.org/pdf/2404.07220)]
 
-- Retriever Fine-tuning
+ **Retriever Fine-tuning**
 
 - JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability [[paper](https://arxiv.org/pdf/2402.17887)]
 - SeRTS: Self-Rewarding Tree Search for Biomedical Retrieval-Augmented Generation [[paper](https://arxiv.org/pdf/2406.11258)]
