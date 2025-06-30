@@ -1,6 +1,28 @@
 # 🩺 RAG_Survey_for_Healthcare
 
 This is README.md file
+
+# Table of Contents
+
+- [🩺 RAG_Survey_for_Healthcare](#-rag_survey_for_healthcare)
+  - [ℹ️ Background](#-background)
+  - [📑 Taxonomy of RAG](#-taxonomy-of-rag)
+    - [🧠 Naive RAG](#-naive-rag)
+    - [🌟 Advanced RAG](#-advanced-rag)
+    - [🛠️ Module RAG](#-module-rag)
+      - [Chunking Optimization](#chunking-optimization)
+      - [Structure organization](#structure-organization)
+      - [Query Routing](#query-routing)
+      - [Query Expansion](#query-expansion)
+      - [Retriever Fine-tuning](#retriever-fine-tuning)
+    - [📊 Graph RAG](#-graph-rag)
+    - [🤖 Agentic RAG](#-agentic-rag)
+  - [🩺 Applications & Use Cases](#-applications--use-cases)
+    - [🎓 Medical Training & Education](#-medical-training--education)
+    - [🩺 Clinical Decision Support](#-clinical-decision-support)
+    - [📖 Medical Literature Summarization](#-medical-literature-summarization)
+    - [📊 Electronic Health Record Analysis](#-electronic-health-record-analysis)
+
 ## ℹ️ Background
 
 <div align="center">
@@ -183,7 +205,7 @@ This is README.md file
 ### 📊 Electronic Health Record Analysis
 
 <div align="center">
-  <img src="/14_Knowledge_Graph.png" alt="MedRAG" width="60%"/>
+  <img src="/14_Knowledge_Graph.png" alt="MedRAG" width="50%"/>
 </div>
 
 - MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot [[paper](https://arxiv.org/abs/2502.04413)]
