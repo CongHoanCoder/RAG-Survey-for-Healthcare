@@ -3,7 +3,7 @@
 This is README.md file
 ## Background
 
-![LLM Models](/LLM_Models.png "LLM_Models")
+![LLM Models](/02_LLM_Models.png "LLM_Models")
 
 - List LLM Models for Healthcare
 
@@ -77,11 +77,13 @@ This is README.md file
 
 ## Taxonomy of RAG
 
-![RAG Taxonomy](/RAG_Taxonomy.png "RAG_Taxonomy")
+
 
 
 
 ## Naive RAG
+
+![Naive_RAG](/06_Naive_RAG_Architecture.png "Naive_RAG")
 
 [Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation](https://www.medrxiv.org/content/medrxiv/early/2023/11/11/2023.11.10.23298364.full.pdf)
 
@@ -96,6 +98,8 @@ This is README.md file
 
 
 ## Advanced RAG
+
+![Advanced_RAG](/07_Advanced_RAG_Architecture.png "Advanced_RAG")
 
 [A RAG Chatbot for Precision Medicine of Multiple Myeloma.](https://www.medrxiv.org/content/10.1101/2024.03.14.24304293v1.full.pdf)
 
