@@ -117,6 +117,8 @@ This is README.md file
 
 ## Module RAG
 
+![Modular_RAG](/08_Modular_RAG.png "Modular_RAG")
+
 [Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/pdf/2310.01352)
 
 [Health-LLM: Personalized Retrieval-Augmented Disease Prediction System](https://arxiv.org/pdf/2402.00746)
@@ -184,6 +186,9 @@ This is README.md file
 
 
 ## Graph RAG
+
+![Graph_RAG](/09_Graph_RAG.png "Graph_RAG")
+
 [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/pdf/2501.13958)
 
 [Medical graph rag: Towards safe medical large language model via graph retrieval-augmented generation. ](https://arxiv.org/pdf/2408.04187)
@@ -195,6 +200,9 @@ This is README.md file
 [Hykge: A hypothesis knowledge graph enhanced framework for accurate and reliable medical llms responses.](https://watermark.silverchair.com/btae560.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA4YwggOCBgkqhkiG9w0BBwagggNzMIIDbwIBADCCA2gGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7V6qYfvT9i3ZkdC2AgEQgIIDOcO2u2KbJus1SzIF8LTPp4LdNokZzmtw5AwnZrXjZVbv_cEKBCi3DpiYFo_UdVKQSi6-is6WBJgOdnT77X2t0AqZ6PDHi9R038upcAzyCjcyHNE1uleB8phMpkR2qFJV9CrBv403Lge2yjLBjG1F5sKkyGtDWATN5iRUThYOzDqMn5DJ0TVfE0zUo3S-eC0bNSE6AP3np-P9pr8Fpy1VluNz0ZRd2jxRiDovfmpZihY9DB-QNAA0BKC-P6KGoebR6M3esHGBl9BaFZZgONn3_ErPCqhb9pv1MTj7hVZV5mavpzh3aYoRyXyM3qlsAbF24FgUzyaiz25YF7AwbaY1jHFFnX9dAfkUcvu3oleRjZP1EO7c33rTDZSUS1LnCV8soX_wZrw5f2CEdeV-IHpSlzn0IOQPwvXi2E3IhvheTCmEoVyUXqJjyLmRg7HP_q21cuTnakI67yZTPBUsSVN3vw4kPe0j7SGaPoIDrEnqSY9UqYz5PBtAWGIU_7aed7_b3-LhKPjQP2UiV1c8PKY93Kq4BSQyhTedaZV61u0ZnzO9MVrrYlxTmXlRa20FmKC7svP_9eKjdtXSuIo5eAZ2YBQenafyq4c5mZXh9SQBZIwkw5-VY_EKwRtykFKpcGKCP6kGMCaBUl-uVE6UPjQ34Ig0A3GFthUmyDJtKVeO5DBwN9mrjN6a4BU3bU3iWmweWvKTYZzgIk7KKsGHg3DecXnuc3k6CJJnNWYBnI3uHYWT9JN4PAPUDJhRpM2FHzRXz6_Vd3meQmT6DN2cjKKGm7_3lBkd4OZcjJe5rZuY4l5k2TV1TAUFIZ0g76EdbVZiOxjpUlOeAB5dtr9875SgHHM_m4FisxkQKqyouDbc4aIGFB1IBpdMreLEcOYZGXRZ2ihR89A4bg8-j12oSHjmdWxlLfdxQT1zG5yYx8Wu9SyXeI1-Espe-AdvoId-H-rB3B5NymS-OiRL44f-kGIrhyCDJKifgYD4hdyZ-t7Lu2a1OH1rOqOycvbEQBg04kydK9Sly7Ary29x0lNYDJ0pz8wCaR-wojK-O2Pd6IB2V74KgmYodQF0FmU4cr61M6RgqQQYwBGYXaAbpA)
 
 ## Agentic RAG
+
+![Agentic_RAG](/10_Agentic_RAG.png "Agentic_RAG")
+
 [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/pdf/2409.18924)
 
 [Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines](https://arxiv.org/pdf/2502.15698)
@@ -208,7 +216,11 @@ This is README.md file
 [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow. ](https://arxiv.org/pdf/2409.18924)
 
 # Applications & Use Cases
+
+![Applications_Outline](/11_Applications_and_Usecases.png "Applications_Outline")
+
 ## Medical Training & Education
+
 [Mimic-extract: A data extraction, preprocessing, and representation pipeline for mimic-iii. ](https://dl.acm.org/doi/pdf/10.1145/3368555.3384469)
 
 [Transforming healthcare education: Harnessing large language models for frontline health worker capacity building using retrieval-augmented generation ](https://www.medrxiv.org/content/10.1101/2023.12.15.23300009v1.full.pdf)
@@ -219,6 +231,9 @@ This is README.md file
 
 
 ## Clinical Decision Support
+
+![CLEAR_RAG](/12_CLEAR_RAG.png "CLEAR_RAG")
+
 [Almanac—retrieval-augmented language models for clinical medicine. ](https://ai.nejm.org/doi/abs/10.1056/AIoa2300068)
 
 [Development and testing of a novel large language model-based clinical decision support systems for medication safety in 12 clinical specialties. ](https://arxiv.org/pdf/2402.01741)
@@ -230,6 +245,9 @@ This is README.md file
 [Improving retrieval-augmented generation in medicine with iterative follow-up questions.  ](https://www.worldscientific.com/doi/epdf/10.1142/9789819807024_0015)
 
 ## Medical Literature Summarization
+
+![RefAI](/13_RefAI_Architecture.png "RefAI")
+
 [RefAI: a GPT-powered retrieval-augmented generative tool for biomedical literature recommendation and summarization.](https://www.worldscientific.com/doi/epdf/10.1142/9789819807024_0015)
 
 [Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature](https://www.worldscientific.com/doi/epdf/10.1142/9789811286421_0002)
@@ -237,6 +255,9 @@ This is README.md file
 [Ccs explorer: Relevance prediction, extractive summarization, and named entity recognition from clinical cohort studies.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020807)
 
 ## Electronic Health Record Analysis
+
+![MedRAG](/14_Knowledge_Graph.png "MedRAG")
+
 [MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://arxiv.org/abs/2502.04413)
 
 [Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA. ](https://arxiv.org/pdf/2503.17933)
