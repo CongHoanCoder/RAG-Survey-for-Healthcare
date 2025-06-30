@@ -6,15 +6,11 @@ This is README.md file
 
 - [🩺 RAG_Survey_for_Healthcare](#-rag_survey_for_healthcare)
   - [ℹ️ Background](#-background)
-  - [📑 Taxonomy of RAG](#-taxonomy-of-rag)
+  - [📑 RAG’s Data Sources and Architecture](#-rag’s-data-sources-and-architecture)
+    - [💾 Data Sources](#-data-sources)
     - [🧠 Naive RAG](#-naive-rag)
     - [🌟 Advanced RAG](#-advanced-rag)
     - [🛠️ Module RAG](#-module-rag)
-      - [Chunking Optimization](#chunking-optimization)
-      - [Structure organization](#structure-organization)
-      - [Query Routing](#query-routing)
-      - [Query Expansion](#query-expansion)
-      - [Retriever Fine-tuning](#retriever-fine-tuning)
     - [📊 Graph RAG](#-graph-rag)
     - [🤖 Agentic RAG](#-agentic-rag)
   - [🩺 Applications & Use Cases](#-applications--use-cases)
@@ -22,6 +18,8 @@ This is README.md file
     - [🩺 Clinical Decision Support](#-clinical-decision-support)
     - [📖 Medical Literature Summarization](#-medical-literature-summarization)
     - [📊 Electronic Health Record Analysis](#-electronic-health-record-analysis)
+
+
 
 ## ℹ️ Background
 
@@ -66,9 +64,41 @@ This is README.md file
 - Using AI-generated suggestions from ChatGPT to optimize clinical decision support [[paper](https://academic.oup.com/jamia/article/30/7/1237/7136722)]
 - Retrieval-augmented generation for large language models: A survey [[paper](https://arxiv.org/pdf/2312.10997)]
 
-## 📑 Taxonomy of RAG
+## 📑 RAG’s Data Sources and Architecture
+
+### 💾 Data Sources
+
+<div align="center">
+  <img src="/Datasets.png" alt="DataSources" width="60%"/>
+</div>
+
+- Mimic-extract: A data extraction, preprocessing, and representation pipeline for mimic-iii. [[paper](https://dl.acm.org/doi/pdf/10.1145/3368555.3384469)]
+- Evaluating temporal relations in clinical text: 2012 i2b2 challenge. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3756273/pdf/amiajnl-2013-001628.pdf)]
+- Evaluating shallow and deep learning strategies for the 2018 n2c2 shared task on clinical text classification. [[paper](https://watermark.silverchair.com/ocz149.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2gwggNkBgkqhkiG9w0BBwagggNVMIIDUQIBADCCA0oGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMy3g-_eQ0cd6ORhQTAgEQgIIDGzeotYa-VUuOCjEdW7ugwGeBtEAjO5lRkruTNDRkiD4No09e4KMoJWSSGMEl9eznEG2SWrNUGjcjouQmLYToRujOvwVMB95_df2iOHUGOj91iQdMTonSBF91EBGNcJknTBT5946vBSu3yPx7_GNGARcyrMXvE8klj8hPK73iVhNOD7rrl3D6MunyxoVGLB2pyxPU021vhCkYXMooqC5IBf_godOs4Z3zqXTCPPNX2-cBlwXnKxik_i3lmLLhv5WD1w-FSLSzjYfZo1nSkmEHhfY4D3gI4hQbAj2nrL3KEVmP72zhTKo9h20oUEEKRMhujgZWaPP8OsIDvojIaHScjEH5OQ_czrneDTkHS8f5Nt0UUJy0kDSpdEObg-O_kgZzdWcl6m7PQPltEg9I6nOPNmZ438Ai0tiMjuZKd7WCtlr0LP_eyE5pfNxk02sCLseI8s1bj6P6EpAu-WEEMlZ34hxtO2G2EmOHj3K1fR78EndpcVOz7fYWTbcFUOKjJl9Sq5XilxbegWvV_WAvjoafaSEuUq114AFia-q6MgSd53usURbc3z-MvpBywJkw7L8NpWmOM_afCQtVxbt8uhckeZ2YgNCAzZc5Zn_gtMGFCsO4czznwS4UtEonqyu6YMM6cYfbCZk68rO-793S6MWEFOeIzCMoWWa_7SYTgmJx5oShokadrDC4eiiwnBB8zFODmmWqAVYKcm2EFjPiEtLBF7fCSh7Z1PNIIdQMkAdzcrrCpA8DYilNl2opl31lUP0CMaBzQjY4tRx5w30X-igPw2Lxqtmdtv-KAtS1e3LXAWQtAz4xf00kWqaNt5XDnVbtVb_5hlpidiBNblgaXYuEiA3qQduSdhREjLSLJBgV8u-JTzrk_GjEMsQkbfM4lrLBiOSaPqf-KTKtNBMgDx1FmLfp7eS6Yu9PKB6GXJQblG0wqWuH6PL2vmsbbLpmR5tUVQdQCi5yBq-eeh1l8QGrtUi4MeEYa2nAELWBbLALqPIeYq_nvRM0B57R2WZStE8HMSWNgrut2iM6EgQxjTw19cwXISNCPs6YKPz3oA)]
+- The healthcare cost and utilization project: an overview. [[paper](https://www.researchgate.net/profile/Anne-Elixhauser-2/publication/11287812_The_Healthcare_Cost_and_Utilization_Project_An_overview/links/00b4952f101fa08914000000/The-Healthcare-Cost-and-Utilization-Project-An-overview.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9)]
+- Pubmedqa: A dataset for biomedical research question answering. [[paper](https://arxiv.org/pdf/1909.06146)]
+- Applying deep matching networks to Chinese medical question answering: a study and a dataset [[paper](https://link.springer.com/article/10.1186/s12911-019-0761-8)]
+- Pathvqa: 30000+ questions for medical visual question answering. [[paper](https://arxiv.org/pdf/2003.10286)]
+- Mimic-iv [[paper](https://physionet.org/content/mimiciv/3.1/)]
+- Cord-19: The covid-19 open research dataset. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7251955/pdf/nihpp-2004.10706v4.pdf)]
+- Overview of the MEDIQA 2021 shared task on summarization in the medical domain. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7251955/pdf/nihpp-2004.10706v4.pdf)]
+- MedDialog: Large-scale medical dialogue datasets. [[paper](https://aclanthology.org/2020.emnlp-main.743.pdf)]
+- Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9434010)]
+- A benchmark for automatic medical consultation system: frameworks, tasks and datasets. [[paper](https://watermark.silverchair.com/btac817.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA4YwggOCBgkqhkiG9w0BBwagggNzMIIDbwIBADCCA2gGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMm-OPr9Xg1XBA2uGQAgEQgIIDOc0z2SSJ8RWBM3_5YHUFvxRhbMbceWNC_JE1g-8Fk4dae0J7TZVgbEiFHgygdVPxq8JExi89UUe4gUfdwy8mzZaB32L5E6s_NTESizJ397fzkP8zAafzzHdLnxAPezku496G9QMKbgUT4bk0n5e9Oe1wZpvFoIZbb49XfuiMgPfwZLH2R3cPAtjC2fz7pYt-MD-6ouKQ-Z7Bm5OWc4QeZOKzsltKl_cS6eY2_c7Hg7vYvHgBXpk4WRYyMN89hGmW-uTaA3qa3qKms2wSUAqNsUtuYK9KK-79xhLEvILji41JwoLl4As0NvlC9naaO_KKF4Rh99Fpx9paqzE-q_S2cctmL54B1Nh9Q-L9E2MwtzVGQLMPfFv_aueflIrA7-CpRGXVAz_GCngqvbLjLpvrkms19L9OCZ8HwMgVFIbOCRG9gDd0th812KPyLBFH41tFz_x9_gJGoF2K9tLArRoLu5krUSv7ahEz7TahHs3KOwwPtzwR5CbfFyRGfZ9PLIQRlZNRu91V7ICqL86jbwKltrovYgZ9qa4KNaxWiSoGk1ss0ZIaXVsTxlCqRUO_mtbTmWXDP4UcunXYFtyCaO-CzpiENVv4HYEfZ4q-SlBSTBHTO20lpC37sPpW3w75pUvnLhcIOeljmq-edV2iSBFk-_OUhQEwjiJfOJiZlturOL5yGK_Cgtv3VXubNgPlB-Z0NX4yYRL4NKUyVFkLyuFAc-RR8YMbd88ioDc9olUEwJ-BIGTo46Qzrlhb_VAeqLJ530ReVyY4azR-u2iZzsOVNprij_3ZxhG2zK5VZ9bmPjmaU0hnscWFQ1OiEPmEbk2KkfqqzgWVjCXBcOtUkMbwfHJD2FF6XCamgA2RBZHr7LYdqweNE3d8emNydt_AvoY0fjFPBl3MsIfo94bcfVulrUjcOnXMYvDP5Ysj-CE6qtnHfsg2qWqsZfGPr6X-jfJ6sn7z0y6q6rrjS7o_oIsZZUEaVoVcWk6WyQ_T1zJH4MJcILWYfhVeHl_n0LG2rQoU4RyWS6-iAfdfve-E4pDNN8ae2ZekVEHoR8OZ40LgeZ_KWSe-HfPCAakMo35uN88mKCHAML8QXEY79A)]
+- Chq-summ: A dataset for consumer healthcare question summarization. [[paper](https://arxiv.org/pdf/2206.06581)]
+- Medmcqa: A large-scale multi-subject multi-choice dataset for medical domain question answering. [[paper](https://proceedings.mlr.press/v174/pal22a/pal22a.pdf)]
+- Large language models encode clinical knowledge. [[paper](https://arxiv.org/pdf/2212.13138)]
+- Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29907)]
+- Distributional semantics resources for biomedical text processing. [[paper](https://bio.nlplab.org/pdf/pyysalo13literature.pdf)]
+- Towards building multilingual language model for medicine. [[paper](https://www.nature.com/articles/s41467-024-52417-z)]
+- Huatuogpt, towards taming language model to be a doctor. [[paper](https://arxiv.org/pdf/2305.15075)]
+- A foundation model utilizing chest ct volumes and radiology reports for supervised-level zero-shot detection of abnormalities. [[paper](https://arxiv.org/pdf/2403.17834v2)]
+
+
 
 ### 🧠 Naive RAG
+
+- Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation [[paper](https://www.medrxiv.org/content/medrxiv/early/2023/11/11/2023.11.10.23298364.full.pdf)]
 
 <div align="center">
   <img src="/06_Naive_RAG_Architecture.png" alt="Naive_RAG" width="60%"/>
