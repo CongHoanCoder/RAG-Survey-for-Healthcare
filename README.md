@@ -1,4 +1,5 @@
-# 🩺 RAG_Survey_for_Healthcare
+# 🩺 Towards Trustworthy Medical AI: A Survey on Retrieval Augmented Generation
+Taxonomy, Applications, Challenges, and Future Directions
 
 This is README.md file
 
