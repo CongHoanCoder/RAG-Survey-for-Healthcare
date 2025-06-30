@@ -232,7 +232,9 @@ This is README.md file
 
 ## Clinical Decision Support
 
-![CLEAR_RAG](/12_CLEAR_RAG.png "CLEAR_RAG")
+<!-- ![CLEAR_RAG](/12_CLEAR_RAG.png "CLEAR_RAG") -->
+
+<img src="/12_CLEAR_RAG.png" alt="CLEAR_RAG" width="50%"/>
 
 [Almanac—retrieval-augmented language models for clinical medicine. ](https://ai.nejm.org/doi/abs/10.1056/AIoa2300068)
 
