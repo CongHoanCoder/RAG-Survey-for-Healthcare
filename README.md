@@ -234,9 +234,10 @@ This is README.md file
 
 <!-- ![CLEAR_RAG](/12_CLEAR_RAG.png "CLEAR_RAG") -->
 
-<p style="text-align: center;">
-  <img src="/12_CLEAR_RAG.png" alt="CLEAR_RAG" width="60%"/>
-</p>
+<div align="center">
+  <img src="/12_CLEAR_RAG.png" alt="CLEAR_RAG" width="50%"/>
+</div>
+
 
 
 [Almanac—retrieval-augmented language models for clinical medicine. ](https://ai.nejm.org/doi/abs/10.1056/AIoa2300068)
