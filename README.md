@@ -26,9 +26,6 @@ This is README.md file
 <div align="center">
   <img src="/02_LLM_Models.png" alt="LLM_Models" width="60%"/>
 </div>
-
-- List LLM Models for Healthcare
-
 - BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[paper](https://arxiv.org/pdf/1901.08746)]
 - SciBERT: A Pretrained Language Model for Scientific Text [[paper](https://arxiv.org/pdf/1903.10676)]
 - Publicly Available Clinical BERT Embeddings [[paper](https://arxiv.org/pdf/1904.03323)]
