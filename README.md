@@ -235,7 +235,7 @@ This is README.md file
 <!-- ![CLEAR_RAG](/12_CLEAR_RAG.png "CLEAR_RAG") -->
 
 <div align="center">
-  <img src="/12_CLEAR_RAG.png" alt="CLEAR_RAG" width="50%"/>
+  <img src="/12_CLEAR_RAG.png" alt="CLEAR_RAG" width="60%"/>
 </div>
 
 
